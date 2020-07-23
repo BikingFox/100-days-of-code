@@ -1,21 +1,19 @@
 # 100 Days Of Code - Log
 
 ### Day 0: July 21, 2020
-##### (delete me or comment me out)
+##### Figuring the process out
 
 **Today's Progress**: Read through the introduction on The Odin Project (TOP).
 
-**Thoughts:** This isn't my first path on learning to code, but rather the attempt to further my experience.  It is a bit of a ambitious task that is overwhelming.  I'm also excited to see where I will end up at the end of this journey. 
+**Thoughts:** This isn't my first path on learning to code, but rather the attempt to further my experience.  It is a bit of a ambitious task that is overwhelming.  I'm also excited to see where I will end up at the end of this journey.
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: July 22, 2020
+##### Finishing introductions
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished TOP setup
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Its a really cool setup, and I'm excited to dive into the full setup.  Also excited to get into the community. I wasn't very motivated to work on anything coding related tonight, but glad I did.  
 
 
 ### Day 1: June 27, Monday
@@ -27,3 +25,5 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+**Link(s) to work**: [Calculator App](http://www.example.com)
