@@ -16,6 +16,16 @@
 **Thoughts**: Its a really cool setup, and I'm excited to dive into the full setup.  Also excited to get into the community. I wasn't very motivated to work on anything coding related tonight, but glad I did.  
 
 
+### Day 0: September 2, 2020 - 7:18 a.m.
+##### Finish GIT
+
+**Today's Progress**: Completed the GIT homework and assignment.  Git Basics is now completed.
+
+**Thoughts:** I am committing to doing 100 days of code!  No more missing.  Today I finished the Git Basics module.  I have never understood GIT before, but it is beginning to make sense.  The remote and local repositories make sense and is a great idea.  The biggest thing I'm wrapping my brain around is the Stage and Commit portion of it.  Commit makes sense, but still figuring out the importance of Stage.  
+
+
+
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
