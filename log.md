@@ -23,7 +23,12 @@
 
 **Thoughts:** I am committing to doing 100 days of code!  No more missing.  Today I finished the Git Basics module.  I have never understood GIT before, but it is beginning to make sense.  The remote and local repositories make sense and is a great idea.  The biggest thing I'm wrapping my brain around is the Stage and Commit portion of it.  Commit makes sense, but still figuring out the importance of Stage.  
 
+### Day 1: September 3, 2020 - 10:36 p.m.
+##### Finish GIT
 
+**Today's Progress**: Completed Introduction to Front End
+
+**Thoughts:** Today was more review.  Checking out HTML, CSS, and JS.  Setup Git through the windows Linux sub-system on my desktop and cloned my repository.  That was a process.  I really prefer how Mac utilizes Git and has the Unix system part of it, rather than a virtual add-on.  Overall a good day with refreshers and continued learning of GIT.
 
 
 ### Day 1: June 27, Monday
