@@ -37,6 +37,13 @@
 
 **Thoughts:** Great refresher information as I go through the FreeCodeCamp. Already had some progress saved in FreeCodeCamp so that helped to reduce some of the time spent on this area.  Excited to push through the web dev part of 100 days so I can begin learning c++ and work on some VR projects!
 
+### Day 3: September 5, 2020 - 11:55 p.m.
+##### CSS Tricks
+
+**Today's Progress**: Worked on the appearance stuff
+
+**Thoughts:** Actually learned some new stuff today about the possibilities available with CSS and how to create different shapes.  Left off with the challenge of making a heart shape with CSS.  That one is going to be challenging.  Really glad I'm sticking with it this time and can't wait to get some sleep so I can keep working towards my goal!
+
 
 
 ###EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
