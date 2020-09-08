@@ -44,6 +44,12 @@
 
 **Thoughts:** Actually learned some new stuff today about the possibilities available with CSS and how to create different shapes.  Left off with the challenge of making a heart shape with CSS.  That one is going to be challenging.  Really glad I'm sticking with it this time and can't wait to get some sleep so I can keep working towards my goal!
 
+### Day 4: September 7, 2020 - 11:21 p.m.
+##### Visual Design Finish
+
+**Today's Progress**: Finished the design section
+
+**Thoughts:** Kinda just skimped through the applied visual design section.  Was tired from holiday and had to work through design things I don't understand (cubic-bezier).  Finished the Applied Visual Design section and ready to move on to the next section!  Glad for the refresher in website building, but still excited to move on to vr!
 
 
 ###EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
