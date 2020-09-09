@@ -51,6 +51,15 @@
 
 **Thoughts:** Kinda just skimped through the applied visual design section.  Was tired from holiday and had to work through design things I don't understand (cubic-bezier).  Finished the Applied Visual Design section and ready to move on to the next section!  Glad for the refresher in website building, but still excited to move on to vr!
 
+### Day 5: September 8, 2020 - 10:31 p.m.
+##### Applied Accessibility
+
+**Today's Progress**: Learning Accessibility in Web Design
+
+**Thoughts:** This is an area I have little experience.  When I first started coding I didn't include any accessibility tags in my first few websites.  A few months ago I went back and updated them, but I know they could be better.  This section has showed me just how elaborate and yet simple this can be!
+
+
+
 
 ###EXAMPLE EXAMPLE EXAMPLE EXAMPLE EXAMPLE
 ### Day 1: June 27, Monday
