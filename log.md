@@ -58,6 +58,12 @@
 
 **Thoughts:** This is an area I have little experience.  When I first started coding I didn't include any accessibility tags in my first few websites.  A few months ago I went back and updated them, but I know they could be better.  This section has showed me just how elaborate and yet simple this can be!
 
+### Day 6: September 10, 2020 - 10:29 p.m.
+##### Flex!
+
+**Today's Progress**: Flex is like float
+
+**Thoughts:** Flex is a new concept to me.  Although after finishing the unit it appears to be an advanced version of float.  Float was very useful for my design ambitions back when I coded for web.  Will be interesting to see how I end up using flex, expecially with all of the cool location options!
 
 
 
